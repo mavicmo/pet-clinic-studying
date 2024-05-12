@@ -1,4 +1,4 @@
-package guru.springframework.sfgpetclinic.modal;
+package guru.springframework.modal;
 
 public class Person {
 
